@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="bay.inote.MainActivity">
+    <item
+        android:id="@+id/action_queryAllData"
+        android:orderInCategory="100"
+        android:title="@string/action_queryAllData"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_deleteAll"
+        android:orderInCategory="100"
+        android:title="@string/action_deleteAll"
+        app:showAsAction="never"></item>
+</menu>

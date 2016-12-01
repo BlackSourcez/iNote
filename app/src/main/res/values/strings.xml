@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">iNote</string>
+    <string name="action_queryAllData">Query All Data</string>
+
+    <string name="action_deleteAll">Clear database</string>
+    <string name="title_activity_edit_note">New Note</string>
+</resources>

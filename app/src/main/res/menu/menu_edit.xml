@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="bay.inote.EditNoteActivity">
+    <item
+        android:id="@+id/action_selectDate"
+        android:orderInCategory="100"
+        android:title="Select Date"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_selectTime"
+        android:orderInCategory="100"
+        android:title="Select Time"
+        app:showAsAction="never" />
+</menu>
